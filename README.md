@@ -4,3 +4,5 @@ How to install :
  - `npm install`
  - `npm start`
  - Go to `localhost:3000` and enjoy
+ 
+ Demo : http://MWDylanD.github.io/MarkdownEditor/
